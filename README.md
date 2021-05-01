@@ -1,5 +1,7 @@
 # Angry Birds Level Gen team of Serpentine
 
+<img src="https://serpentine.ai/wp-content/uploads/2019/02/Final-design-serpentine.png" width="400px">
+
 Welcome to the code repository of the [Serpentine](https://serpentineai.nl/) team that competed in the [5th Angry Birds Level Gen Competition](http://aibirds.org/level-generation-competition.html) in 2020.
 The team consisted of: Wolf van der Hert, Bram Grooten, Thomas Molier, Jelle van Kerkvoorde and Tunahan Sari.
 
